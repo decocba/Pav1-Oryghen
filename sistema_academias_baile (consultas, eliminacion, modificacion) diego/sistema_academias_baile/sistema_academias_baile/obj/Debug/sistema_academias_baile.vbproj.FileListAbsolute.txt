@@ -1,0 +1,27 @@
+C:\Users\Diego\Documents\TPI-PAV1\sistema_academias_baile\sistema_academias_baile\bin\Debug\sistema_academias_baile.exe.config
+C:\Users\Diego\Source\Repos\TPI-PAV1\sistema_academias_baile\sistema_academias_baile\bin\Debug\sistema_academias_baile.exe.config
+C:\Users\Diego\Source\Repos\TPI-PAV1\sistema_academias_baile\sistema_academias_baile\obj\Debug\sistema_academias_baile.Registrar_Alumno.resources
+C:\Users\Diego\Source\Repos\TPI-PAV1\sistema_academias_baile\sistema_academias_baile\obj\Debug\sistema_academias_baile.Resources.resources
+C:\Users\Diego\Source\Repos\TPI-PAV1\sistema_academias_baile\sistema_academias_baile\obj\Debug\sistema_academias_baile.vbproj.GenerateResource.Cache
+C:\Users\Diego\Source\Repos\TPI-PAV1\sistema_academias_baile\sistema_academias_baile\bin\Debug\sistema_academias_baile.exe
+C:\Users\Diego\Source\Repos\TPI-PAV1\sistema_academias_baile\sistema_academias_baile\bin\Debug\sistema_academias_baile.pdb
+C:\Users\Diego\Source\Repos\TPI-PAV1\sistema_academias_baile\sistema_academias_baile\bin\Debug\sistema_academias_baile.xml
+C:\Users\Diego\Source\Repos\TPI-PAV1\sistema_academias_baile\sistema_academias_baile\obj\Debug\sistema_academias_baile.exe
+C:\Users\Diego\Source\Repos\TPI-PAV1\sistema_academias_baile\sistema_academias_baile\obj\Debug\sistema_academias_baile.xml
+C:\Users\Diego\Source\Repos\TPI-PAV1\sistema_academias_baile\sistema_academias_baile\obj\Debug\sistema_academias_baile.pdb
+C:\Users\Diego\Source\Repos\TPI-PAV1\sistema_academias_baile\sistema_academias_baile\obj\Debug\sistema_academias_baile.vbprojResolveAssemblyReference.cache
+C:\Users\Diego\Source\Repos\TPI-PAV1\sistema_academias_baile\sistema_academias_baile\obj\Debug\sistema_academias_baile.frm_registrar_clase.resources
+C:\Users\Diego\Source\Repos\TPI-PAV1\sistema_academias_baile\sistema_academias_baile\obj\Debug\sistema_academias_baile.frm_consultar_alumnos.resources
+C:\PAV1\sistema_academias_baile\sistema_academias_baile (consultas, eliminacion, modificacion) diego\sistema_academias_baile\sistema_academias_baile\bin\Debug\sistema_academias_baile.exe.config
+C:\PAV1\sistema_academias_baile\sistema_academias_baile (consultas, eliminacion, modificacion) diego\sistema_academias_baile\sistema_academias_baile\obj\Debug\sistema_academias_baile.exe
+C:\PAV1\sistema_academias_baile\sistema_academias_baile (consultas, eliminacion, modificacion) diego\sistema_academias_baile\sistema_academias_baile\obj\Debug\sistema_academias_baile.xml
+C:\PAV1\sistema_academias_baile\sistema_academias_baile (consultas, eliminacion, modificacion) diego\sistema_academias_baile\sistema_academias_baile\obj\Debug\sistema_academias_baile.pdb
+C:\PAV1\sistema_academias_baile\sistema_academias_baile (consultas, eliminacion, modificacion) diego\sistema_academias_baile\sistema_academias_baile\bin\Debug\sistema_academias_baile.exe
+C:\PAV1\sistema_academias_baile\sistema_academias_baile (consultas, eliminacion, modificacion) diego\sistema_academias_baile\sistema_academias_baile\bin\Debug\sistema_academias_baile.pdb
+C:\PAV1\sistema_academias_baile\sistema_academias_baile (consultas, eliminacion, modificacion) diego\sistema_academias_baile\sistema_academias_baile\bin\Debug\sistema_academias_baile.xml
+C:\PAV1\sistema_academias_baile\sistema_academias_baile (consultas, eliminacion, modificacion) diego\sistema_academias_baile\sistema_academias_baile\obj\Debug\sistema_academias_baile.vbprojResolveAssemblyReference.cache
+C:\PAV1\sistema_academias_baile\sistema_academias_baile (consultas, eliminacion, modificacion) diego\sistema_academias_baile\sistema_academias_baile\obj\Debug\sistema_academias_baile.frm_consultar_alumnos.resources
+C:\PAV1\sistema_academias_baile\sistema_academias_baile (consultas, eliminacion, modificacion) diego\sistema_academias_baile\sistema_academias_baile\obj\Debug\sistema_academias_baile.Registrar_Alumno.resources
+C:\PAV1\sistema_academias_baile\sistema_academias_baile (consultas, eliminacion, modificacion) diego\sistema_academias_baile\sistema_academias_baile\obj\Debug\sistema_academias_baile.frm_registrar_clase.resources
+C:\PAV1\sistema_academias_baile\sistema_academias_baile (consultas, eliminacion, modificacion) diego\sistema_academias_baile\sistema_academias_baile\obj\Debug\sistema_academias_baile.Resources.resources
+C:\PAV1\sistema_academias_baile\sistema_academias_baile (consultas, eliminacion, modificacion) diego\sistema_academias_baile\sistema_academias_baile\obj\Debug\sistema_academias_baile.vbproj.GenerateResource.Cache
